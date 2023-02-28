@@ -1,0 +1,41 @@
+/* Google Görseli Kısmı */
+.görsel {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+/* Arama Çubuğu Kısmı */
+.top {
+    text-align: center;
+    font-size: 20px;
+    background-color: rgb(231, 229, 229);
+    margin-left: 7%;
+    margin-right: 7%;
+}
+.search {
+    margin-bottom: 0;
+}
+.all {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.bg-color-1 {
+    background-color: #70CCC2;
+    width: 33%;
+    margin-left: 7%;
+}
+.bg-color-2 {
+    background-color: #2ebbaa;
+    width: 33%;
+    margin: 0 0.2%;
+}
+.bg-color-3 {
+    background-color: #08a593;
+    width: 33%;
+    margin-right: 7%;
+}
+#orta {
+    text-align: center;
+}
